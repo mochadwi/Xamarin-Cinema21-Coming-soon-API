@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katalog_Movie.Android", "Katalog Movie\Katalog_Movie.Android\Katalog_Movie.Android.csproj", "{B1EDA5A5-345E-473A-9B18-5BBDDA2F4C1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submission04_Movie.Droid", "Katalog Movie\Katalog_Movie.Android\Submission04_Movie.Droid.csproj", "{B1EDA5A5-345E-473A-9B18-5BBDDA2F4C1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katalog_Movie", "Katalog Movie\Katalog_Movie\Katalog_Movie.csproj", "{731E354D-94B3-49E6-9012-2BCDD853B8B2}"
 EndProject
